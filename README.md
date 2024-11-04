@@ -65,16 +65,16 @@ Data Visualization: Charts were created in Excel, and Power BI to visually repre
 
 ## VISUAL ANALYSIS AND INFERENCE
 
-## EXCEL 
+### Excel
 Revenue by Region
   Pivot Table:
 
 
-## SQL
+### SQL
 
 
 
-## POWER BI
+### Power BI
 
 
 ## INFERENCE:
