@@ -28,9 +28,9 @@ The dataset include:
 
 This project aimed at analyzing the following:
 
-Total sales:  Determine the total sales made.
+- Total sales:  Determine the total sales made.
 
-Sales per product: Determine average sale generated from each product.
+- Sales per product: Determine average sale generated from each product.
 
 Revenue by Region: Determine the total revenue generated in each region.
 
