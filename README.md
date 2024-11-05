@@ -91,7 +91,7 @@ Revenue by Region
   Pivot Table:
 
 Sales Project 1.PNG
-
+https://github.com/Oluchiesthernorah/Capstone-Sales-Data-Project/blob/main/Sales%20Project%203.PNG
 
 ### SQL
 
