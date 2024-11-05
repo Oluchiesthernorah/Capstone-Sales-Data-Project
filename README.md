@@ -1,5 +1,22 @@
 # Capstone-Sales-Data-Project
 
+[OVERVIEW](#overview)
+
+[DATA COLLECTED](#data-collected)
+
+[PROJECT OBJECTIVES](#project-objective)
+
+[KEY METRICS](#key-metrics)
+
+[HOW TO USE THE DATA](#how-to-use-the-data)
+
+[FORMULA USED](#formula-used)
+
+[TOOLS AND METHODS USED](#tools-and-methods-used)
+
+[VISUAL ANALYSIS AND INFERENCE](#visual-analysis-and-inference)
+
+
 ## OVERVIEW
 
 This project collects and analyses sales data from various regions, product, and orderdate. The goal is to provide insights into revenue, units sold, and transaction categories over different periods. The analysis focuses on understanding revenue trends and sales performance across product, regions, and months and also to calculate key metrics such as total sales by Product, by region and by month, average sales and total revenue.
