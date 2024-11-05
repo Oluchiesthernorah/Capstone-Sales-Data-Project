@@ -1,6 +1,7 @@
 # Capstone-Sales-Data-Project
 ```
 
+
 [OVERVIEW](#overview)
 
 [DATA COLLECTED](#data-collected)
