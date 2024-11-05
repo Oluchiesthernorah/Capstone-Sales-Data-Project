@@ -1,4 +1,5 @@
 # Capstone-Sales-Data-Project
+```
 
 [OVERVIEW](#overview)
 
@@ -14,7 +15,9 @@
 
 [TOOLS AND METHODS USED](#tools-and-methods-used)
 
-[VISUAL ANALYSIS AND INFERENCE](#visual-analysis-and-inference)
+[VISUAL ANALYSIS](#visual-analysis)
+
+[INFERENCE](#inference)
 
 
 ## OVERVIEW
@@ -80,7 +83,7 @@ Total Sales = Quantity * Unit Price
 
 - Data Visualization: Charts were created in Excel, and Power BI to visually represent the key insights.
 
-## VISUAL ANALYSIS AND INFERENCE
+## VISUAL ANALYSIS
 
 ### Excel
 Revenue by Region
@@ -96,7 +99,7 @@ Sales Project 1.PNG
 ### Power BI
 
 
-## INFERENCE:
+## INFERENCE
 
 Overall Revenue Trends:
 It was deduced that the month with the highest total sales is February, which means that in the month of February, the sales was massive
