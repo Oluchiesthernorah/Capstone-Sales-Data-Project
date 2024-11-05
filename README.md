@@ -69,6 +69,8 @@ Total Sales = Quantity * Unit Price
 Revenue by Region
   Pivot Table:
 
+Sales Project 1.PNG
+
 
 ### SQL
 
