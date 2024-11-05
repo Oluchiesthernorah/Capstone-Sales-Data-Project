@@ -1,6 +1,4 @@
 # Capstone-Sales-Data-Project
-```
-
 
 [OVERVIEW](#overview)
 
