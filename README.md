@@ -74,7 +74,7 @@ This project aimed at analyzing the following:
 - Total sales by Month: Group the data by month and sum the units sold to identify the most selling product in each month
 
 ## FORMULA USED
-Total Sales = Quantity * Unit Price
+```Total Sales = Quantity * Unit Price```
 
 ## TOOLS AND METHODS USED
 
