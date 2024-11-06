@@ -140,7 +140,7 @@ Chart
 
 It was deduced that the month with the highest total sales is February, which means that in the month of February, the sales was massive with the total of 2,750,000. followed by July with the total of 1,387,500 then January and June with each amounting to 1,250,000. then August, October, May, November, March, December, April, finally September. 
 
- The highest sold product was Shoes with a sum total of 3,087,500, followed by Shirts with a sum total of 2,450,000 Gloves with a sum total of 1,500,000, followed by  with a sum total of 
+ The highest sold product was Shoes with a sum total of 3,087,500, followed by Shirts with a sum total of 2,450,000, followed by Hat with a sum total of 1,58 Gloves with a sum total of 1,500,000, followed by  with a sum total of 
 
 **Regional Performance:**
 
