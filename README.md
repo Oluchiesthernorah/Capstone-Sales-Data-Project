@@ -137,7 +137,7 @@ Chart
 ## INFERENCE
 
 **Overall Revenue Trends:**
-It was deduced that the month with the highest total sales is February, which means that in the month of February, the sales was massive with the total of 2,750,000. followed by July with the total of 1,387,500 then January and June with each amounting to 1,250,000. then August, October, November, March, April, December 
+It was deduced that the month with the highest total sales is February, which means that in the month of February, the sales was massive with the total of 2,750,000. followed by July with the total of 1,387,500 then January and June with each amounting to 1,250,000. then August, October, May, November, March, December, April. 
 
 
 **Regional Performance:**
