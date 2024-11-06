@@ -95,15 +95,44 @@ Revenue by Region
 
 ![Sales Project 1](https://github.com/user-attachments/assets/d82e0170-1f9e-41e6-86ec-a3e549e7001c)
 
+Chart 
 
 ![Sales Project 3](https://github.com/user-attachments/assets/cefe4203-0744-425c-9584-57f86e2243bb)
 
 
 ### SQL
 
+![Tatal sales](https://github.com/user-attachments/assets/81579d9e-a0a6-4e10-9131-37c682d239d3)
+
+
+![Total sale by product](https://github.com/user-attachments/assets/c3409de7-7173-4e36-9874-09e36d32ce78)
+
+
+![Sales by Region](https://github.com/user-attachments/assets/2f688c04-2b99-41d1-9e6b-eaf5aee66c21)
+
+
+![Capture 2](https://github.com/user-attachments/assets/56102251-fd61-47f5-975e-7d2371d5c9b9)
+
+
+![Capture 3](https://github.com/user-attachments/assets/694b0a1e-c3c2-4ddc-8298-185df110e54b)
+
+
+![Capture 4](https://github.com/user-attachments/assets/d07f5914-bd48-4e13-be99-4e162eb17edc)
+
+
+![Capture 5](https://github.com/user-attachments/assets/e45d2d19-d1bf-44f0-94a2-5b4669aeae2c)
+
+
+![Capture 6](https://github.com/user-attachments/assets/b5ab6f42-bac1-41ca-bf99-41ada5720cbd)
+
+
+![Capture A6](https://github.com/user-attachments/assets/ed1df371-2c38-4b50-9316-3c37f4bbec32)
+
 
 
 ### Power BI
+
+![POWER BI SALES DATA](https://github.com/user-attachments/assets/95547ff2-d67a-47dd-ba47-bced4fd95dd8)
 
 
 ## INFERENCE
