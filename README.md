@@ -87,7 +87,6 @@ Total Sales = Quantity * Unit Price
 ## VISUAL ANALYSIS
 
 ### Excel
-Revenue by Region
  
 ![Sales Project 2](https://github.com/user-attachments/assets/4634639a-dbf4-494a-82d9-a781aa4d2ada)
  
@@ -137,8 +136,9 @@ Chart
 
 ## INFERENCE
 
-Overall Revenue Trends:
-It was deduced that the month with the highest total sales is February, which means that in the month of February, the sales was massive
+**Overall Revenue Trends:**
+It was deduced that the month with the highest total sales is February, which means that in the month of February, the sales was massive with the total of 2,750,000. followed by January and June with each amounting to 1,250,000. 
 
-Regional Performance:
+
+**Regional Performance:**
 The region with the highest sales is the South followed by East, North and West Region. All with a grand total of 10,587,500.
