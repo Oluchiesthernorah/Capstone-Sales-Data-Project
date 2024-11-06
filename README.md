@@ -137,8 +137,8 @@ Chart
 ## INFERENCE
 
 **Overall Revenue Trends:**
-It was deduced that the month with the highest total sales is February, which means that in the month of February, the sales was massive with the total of 2,750,000. followed by July with the total of 1,387,500 then January and June with each amounting to 1,250,000. 
+It was deduced that the month with the highest total sales is February, which means that in the month of February, the sales was massive with the total of 2,750,000. followed by July with the total of 1,387,500 then January and June with each amounting to 1,250,000. then August, October, November, March, April, December 
 
 
 **Regional Performance:**
-The region with the highest sales is the South followed by East, North and West Region. All with a grand total of 10,587,500.
+The region with the highest sales is the South with 44.16%, followed by East with 23.14%, North with 18% and West Region with 14.29%. All with a grand total of 10,587,500.
