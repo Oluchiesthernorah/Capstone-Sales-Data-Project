@@ -88,10 +88,16 @@ Total Sales = Quantity * Unit Price
 
 ### Excel
 Revenue by Region
-  Pivot Table:
+ 
+![Sales Project 2](https://github.com/user-attachments/assets/4634639a-dbf4-494a-82d9-a781aa4d2ada)
+ 
+ Pivot Table:
 
-Sales Project 1.PNG
-https://github.com/Oluchiesthernorah/Capstone-Sales-Data-Project/blob/main/Sales%20Project%203.PNG
+![Sales Project 1](https://github.com/user-attachments/assets/d82e0170-1f9e-41e6-86ec-a3e549e7001c)
+
+
+![Sales Project 3](https://github.com/user-attachments/assets/cefe4203-0744-425c-9584-57f86e2243bb)
+
 
 ### SQL
 
